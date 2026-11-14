@@ -1,0 +1,7 @@
+# original game files: bring your own dump
+orig/
+chunks/in/
+# build output
+/out/
+.DS_Store
+__pycache__/
